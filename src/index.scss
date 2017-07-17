@@ -1,0 +1,24 @@
+$bg: #eee;
+$bgApp: #fff;
+$text: #333;
+$accent: #31B0D5;
+
+@import url('https://fonts.googleapis.com/css?family=Fresca');
+
+body{
+  background: $bg;
+  margin: 20px;
+  font-family: 'Fresca', sans-serif;
+  font-size: 18px;
+}
+
+#app{
+  width: 80%;
+  margin: 0 auto;
+  background: $bgApp;
+  border-top: 3px solid $accent;
+  padding: 10px;
+  border-radius: 2px;
+  box-shadow: 10px 10px 5px rgba(0,0,0,0.2);
+  color: $text;
+}

@@ -1,0 +1,15 @@
+#add-todo input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #31B0D5;
+  border-radius: 4px 0 0 4px;
+  color: #777;
+  outline: none; }
+
+.Button {
+  padding: 10px;
+  background: #31B0D5;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none; }

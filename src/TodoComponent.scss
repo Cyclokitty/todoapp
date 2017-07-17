@@ -1,0 +1,20 @@
+$fontColor: #333;
+$niceBlue: #31B0D5;
+
+.TodoComponent h1{
+  color: $fontColor;
+  font-size: 2.5em;
+}
+
+.TodoComponent ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+.OwnerInfo {
+  text-align: center;
+}
+
+.OwnerInfo a:link{
+  color: $niceBlue;
+}

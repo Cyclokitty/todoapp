@@ -1,0 +1,13 @@
+.TodoComponent h1 {
+  color: #333;
+  font-size: 2.5em; }
+
+.TodoComponent ul {
+  list-style-type: none;
+  padding: 0; }
+
+.OwnerInfo {
+  text-align: center; }
+
+.OwnerInfo a:link {
+  color: #31B0D5; }

@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Fresca");
+body {
+  background: #eee;
+  margin: 20px;
+  font-family: 'Fresca', sans-serif;
+  font-size: 18px; }
+
+#app {
+  width: 80%;
+  margin: 0 auto;
+  background: #fff;
+  border-top: 3px solid #31B0D5;
+  padding: 10px;
+  border-radius: 2px;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+  color: #333; }
